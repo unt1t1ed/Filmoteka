@@ -9,3 +9,5 @@ bot.pid
 .vscode/
 *.key
 *.pub
+*.db
+__pycache__/
