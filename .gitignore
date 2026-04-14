@@ -7,3 +7,5 @@ __pycache__/
 logs/
 bot.pid
 .vscode/
+*.key
+*.pub
